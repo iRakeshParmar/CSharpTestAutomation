@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CSharpTestAutomation/v16
+/.vs
+/XUnitTestAuto/bin/Debug/netcoreapp3.0
+/XUnitTestAuto/obj
